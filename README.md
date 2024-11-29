@@ -1,7 +1,7 @@
 # SONAR Object Classification: Rocks vs Mines
 
 ## 1. Project Description:
-This project classifies sonar signals as either Rocks (R) or Mines (M) using machine learning. It demonstrates the complete pipeline for building a classification model, from data preprocessing and exploratory data analysis to model training and evaluation. The implementation leverages Python and libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
+This project classifies sonar signals as either Rocks (R) or Mines (M) using machine learning. It demonstrates the complete pipeline for building a classification model, from data preprocessing and exploratory data analysis to model training and evaluation. The implementation leverages Python and libraries like Pandas, NumPy, and Scikit-learn.
 
 ## 2. Features
 Binary classification of sonar signals.
