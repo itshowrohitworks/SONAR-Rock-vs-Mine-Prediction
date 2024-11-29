@@ -11,7 +11,7 @@ Performance metrics such as accuracy, precision, recall, and F1 score.
 Prerequisites
 Python >= 3.7
 Jupyter Notebook
-Required libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Required libraries: Pandas, NumPy, Scikit-learn.
 
 ## 3. Steps in the SONAR R vs M Project
 ### 1. Importing Libraries
